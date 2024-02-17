@@ -6,6 +6,7 @@ body {
 .container {
   max-width: 700px;
 }
+/* removes todo item by setting it's display value to none*/
 .filtered {
   display: none !important;
 }
