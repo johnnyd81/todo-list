@@ -1,4 +1,4 @@
-//DOM variables required
+//required DOM variables
 const addForm = document.querySelector(".add");
 const list = document.querySelector(".todos");
 const search = document.querySelector(".search");
